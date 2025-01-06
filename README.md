@@ -1,5 +1,7 @@
 ## Clone the repository
+```bash
 git clone https://github.com/loryferli/asus-debloat
+```
 
 ## Stop and delete services
 In Task Scheduler, create a task that runs at startup with admin priviledges. In the Actions section, put the following parameters
